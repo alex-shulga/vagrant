@@ -7,7 +7,7 @@
     "guest_os_type": "Ubuntu_64",
     "disk_size": 61440,
 
-    "iso_url": "http://releases.ubuntu.com/15.04/ubuntu-15.04-server-amd64.iso",
+    "iso_url": "http://old-releases.ubuntu.com/releases/15.04/ubuntu-15.04-server-amd64.iso",
     "iso_checksum": "487f4a81f22f8597503db3d51a1b502e",
     "iso_checksum_type": "md5",
 
